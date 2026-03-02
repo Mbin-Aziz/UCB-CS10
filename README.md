@@ -1,1 +1,1 @@
-# UCB-CS10
+My CS10 journey: projects, notes, weekly logs
